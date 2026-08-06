@@ -1,6 +1,6 @@
-// 191. Number of 1 Bits - Number of set bits in its binary representation
+// 191. Number of 1 Bits - Count the number of 1s in the binary representation of an integer
 // Difficulty: Easy
-// My Approach: Decimal to Binary Conversion (String), Count Set Bits
+// My Approach: Brute Force - Decimal to Binary Conversion (can be optimized using Bit Manipulation)
 // Time Complexity: O(log n)
 // Space Complexity: O(log n)
 
